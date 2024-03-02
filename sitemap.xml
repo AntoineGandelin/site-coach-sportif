@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://antoinegandelin.github.io/site-coach-sportif/</loc>
-    <lastmod>2024-03-02</lastmod>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/</loc>
+  <lastmod>2024-03-02T18:20:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/qui-suis-je.html</loc>
+  <lastmod>2024-03-02T18:20:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/est-ce-que-la-musculation-arrete-la-croissance.html</loc>
+  <lastmod>2024-03-02T18:20:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/comment-prendre-de-la-masse-en-musculation.html</loc>
+  <lastmod>2024-03-02T18:20:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/comment-faire-un-programme-de-musculation.html</loc>
+  <lastmod>2024-03-02T18:20:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/blog.html</loc>
+  <lastmod>2024-03-02T18:20:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/recommandations.html</loc>
+  <lastmod>2024-03-02T18:20:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoinegandelin.github.io/site-coach-sportif/index.html</loc>
+  <lastmod>2024-03-02T18:20:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
